@@ -1,2 +1,2 @@
-# TEMP1
-Designer clothes shop
+# HighTechMe
+Print on demand artist home page
