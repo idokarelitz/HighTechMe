@@ -84,7 +84,7 @@ a.filled-button:hover {
 .section-heading h2 {
 	font-size: 28px;
 	font-weight: 400;
-	color: #1e1e1e;
+	color: hsl(0, 0%, 7%);
 	margin-bottom: 15px;
 }
 
@@ -93,11 +93,11 @@ a.filled-button:hover {
 }
 
 .about-heading {
-	background-image: url(../images/about-heading.jpg);
+	background-image: url(../images/abouttop.jpg);
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/contact01.jpg);
 }
 
 .page-heading {
@@ -117,7 +117,7 @@ a.filled-button:hover {
 }
 
 .page-heading .text-content h2 {
-	color: #fff;
+	color: rgb(250, 4, 4);
 	font-size: 62px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
@@ -318,7 +318,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_01.jpg);
+	background-image: url(../images/backround01.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -326,7 +326,7 @@ header .navbar {
 
 .banner-item-02 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_02.jpg);
+	background-image: url(../images/backround02.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -334,7 +334,7 @@ header .navbar {
 
 .banner-item-03 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_03.jpg);
+	background-image: url(../images/backround03.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -353,7 +353,7 @@ header .navbar {
 }
 
 .banner .text-content h4 {
-	color: #f33f3f;
+	color: #0004ff;
 	font-size: 22px;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -361,7 +361,7 @@ header .navbar {
 }
 
 .banner .text-content h2 {
-	color: #fff;
+	color: rgb(0, 0, 255);
 	font-size: 62px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
@@ -388,7 +388,7 @@ header .navbar {
     height: 10px;
     border-radius: 50%;
     margin: 0 10px;
-    background-color: #fff;
+    background-color: rgb(253, 251, 251);
     opacity: 0.5;
 }
 .owl-banner .owl-dots .owl-dot:focus {
@@ -743,7 +743,7 @@ footer .inner-content p a {
 /* Services */
 
 .services {
-	background-image: url(../images/services-bg.jpg);
+	background-image: url(../images/smilyscreen.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
